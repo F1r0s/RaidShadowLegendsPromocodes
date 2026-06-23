@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /codes.html
+
+Sitemap: https://raidshadowlegendspromocodes.online/sitemap.xml
